@@ -1,5 +1,5 @@
 # LightsOutSolver
-### Lights Out puzzle solver using linear algebra
+**Lights Out puzzle solver using linear algebra**
 
 ## Build
 **Built with the GNU Compiler version 11.4.0**
